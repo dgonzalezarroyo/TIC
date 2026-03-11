@@ -154,8 +154,3 @@ Este script automatiza completamente:
 * Configuración automática para todos los usuarios
 
 Todo el proceso se ejecuta **sin intervención manual** y queda **listo tras una única ejecución**.
-
-```
-
-Si quieres, también puedo hacer una **versión más profesional para un repositorio público** (con secciones típicas de GitHub como *Requirements, Installation, Usage, License, etc.*) que queda todavía mejor para proyectos compartidos.
-```
