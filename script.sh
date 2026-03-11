@@ -136,7 +136,7 @@ fi
 # ============================
 if command -v migasfree >/dev/null 2>&1; then
     migasfree -u
-    migasfree-tags --set "000-marie.curie.${HOSTNAME_ACTUAL}"
+    migasfree-tags --set "(poner aquí el nombre de la etiqueta)"
 else
     echo "⚠ migasfree no está instalado, se omite esta parte."
 fi
