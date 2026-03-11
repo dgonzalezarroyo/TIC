@@ -1,4 +1,4 @@
-Autores: Aarón Barcenas y Ulyses Huete
+**Autores: Aarón Barcenas y Ulyses Huete**
 
 Este script realiza varias tareas de configuración en el sistema y prepara la **duplicación de pantallas** para que funcione correctamente en equipos donde la pantalla del portátil y la del proyector o monitor externo tienen **resoluciones diferentes**.
 
