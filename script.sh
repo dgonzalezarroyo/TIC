@@ -8,9 +8,6 @@ if [ "$EUID" -ne 0 ]; then
     exit 1
 fi
 
-# Obtener el nombre del equipo
-HOSTNAME_ACTUAL=$(hostname)
-
 # ============================
 # 1) Cambiar contraseñas
 # ============================
